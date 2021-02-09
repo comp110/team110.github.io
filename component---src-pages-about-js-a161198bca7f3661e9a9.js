@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"3XHS":function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),l=t.n(n),r=t("Kvkj");a.default=function(){return l.a.createElement(r.c,null,l.a.createElement("div",{className:"page"},l.a.createElement("h1",null,"About the Team!"),l.a.createElement("div",null,"How did we all end up here.... well for starters, we have all taken COMP110!")))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-a161198bca7f3661e9a9.js.map
